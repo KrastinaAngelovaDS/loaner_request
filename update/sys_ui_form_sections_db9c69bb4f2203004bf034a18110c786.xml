@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="db9c69bb4f2203004bf034a18110c786" sys_domain="global" table="x_162627_loaner_re_loaner_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 08:22:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>579c69bb4f2203004bf034a18110c789</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_162627_loaner_re_loaner_request" name="x_162627_loaner_re_loaner_request" sys_domain="global" view="Default view">db9c69bb4f2203004bf034a18110c786</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_162627_loaner_re_loaner_request" sys_domain="global" view="Default view">2bbff2b64f6203004bf034a18110c7a7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 08:22:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 08:22:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>539c69bb4f2203004bf034a18110c78a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_162627_loaner_re_loaner_request" name="x_162627_loaner_re_loaner_request" sys_domain="global" view="Default view">db9c69bb4f2203004bf034a18110c786</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_162627_loaner_re_loaner_request" sys_domain="global" view="Default view">1b9c69bb4f2203004bf034a18110c785</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 08:22:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 09:10:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5787b1ff4f2203004bf034a18110c7d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_162627_loaner_re_loaner_request" name="x_162627_loaner_re_loaner_request" sys_domain="global" view="Default view">db9c69bb4f2203004bf034a18110c786</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_162627_loaner_re_loaner_request" sys_domain="global" view="Default view">1b87b1ff4f2203004bf034a18110c7d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 09:10:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-29 15:32:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7512ed6c4f7203004bf034a18110c79a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_162627_loaner_re_loaner_request" name="x_162627_loaner_re_loaner_request" sys_domain="global" view="Default view">db9c69bb4f2203004bf034a18110c786</sys_ui_form>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_162627_loaner_re_loaner_request" sys_domain="global" view="Default view">7912ed6c4f7203004bf034a18110c796</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-29 15:32:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_162627_loaner_re_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 08:22:34</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db9c69bb4f2203004bf034a18110c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_162627_loaner_re_loaner_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_162627_loaner_re">c88a2a324f2203004bf034a18110c79e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Loaner Request">c88a2a324f2203004bf034a18110c79e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_db9c69bb4f2203004bf034a18110c786</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 08:22:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
